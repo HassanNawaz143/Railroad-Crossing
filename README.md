@@ -1,6 +1,7 @@
 # Railroad-Crossing
 This repository contains a Java-based runtime system for managing and executing distributed state machines. The system is designed to support multiple state machines interacting over a network, and it includes a demonstration application for controlling gates and lights at a railroad crossing.
-**Features:**
+
+## Features:
 Java Implementation: A Java-based solution for managing distributed state machines.
 Docker Integration: Dockerfiles and Docker Compose configuration for containerizing and orchestrating state machine services.
 State Machine Model: A flexible model for representing and executing state machines.
@@ -53,7 +54,7 @@ Contributions are welcome! If you have any improvements or bug fixes, please fol
 
 For any questions or feedback, please contact:
 
-- **Hassan Nawaz** - [hassanrajput994@gmail.com](mailto:hassanrajput994@gmail.com
+- **Hassan Nawaz** - [hassanrajput994@gmail.com]
 
 
 Documentation
